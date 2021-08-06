@@ -1,2 +1,2 @@
-# Hono-agency-recrutement
-Exercices de recrutement Hoho agency
+# Hono-agency-recrutement. 
+Exercices à réaliser dans le cadre du recrutement de Hone agency
